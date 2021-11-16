@@ -14,7 +14,7 @@
         "outputPath": "/Users/jaredmillsap/Desktop/True Coders/HelloWorld/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/jaredmillsap/.nuget/NuGet/NuGet.Config"
+          "/Users/jaredmillsap/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
